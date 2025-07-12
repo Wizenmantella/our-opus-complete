@@ -1,0 +1,42 @@
+{
+  "effects_chain": [
+    "zoom_in",
+    "slide_left",
+    "fade_black",
+    "slide_left",
+    "quick_cut",
+    "fade_black",
+    "quick_cut",
+    "slide_left",
+    "fade_black",
+    "fade_black",
+    "slide_left",
+    "quick_cut",
+    "glitch_effect",
+    "quick_cut",
+    "quick_cut"
+  ],
+  "timing": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27,
+    30,
+    33,
+    36,
+    39,
+    42
+  ],
+  "aesthetic_style": "soft-cyberpunk-525",
+  "color_palette": [
+    "hsl(319, 70%, 60%)",
+    "hsl(274, 70%, 60%)",
+    "hsl(160, 70%, 60%)"
+  ]
+}

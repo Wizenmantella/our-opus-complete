@@ -1,0 +1,32 @@
+{
+  "effects_chain": [
+    "slide_left",
+    "quick_cut",
+    "quick_cut",
+    "glitch_effect",
+    "slide_left",
+    "zoom_in",
+    "quick_cut",
+    "zoom_in",
+    "quick_cut",
+    "zoom_in"
+  ],
+  "timing": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27
+  ],
+  "aesthetic_style": "digital-organic-140",
+  "color_palette": [
+    "hsl(79, 70%, 60%)",
+    "hsl(124, 70%, 60%)",
+    "hsl(81, 70%, 60%)"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "project": {
+    "project_id": "1c57a9d8",
+    "prompt": "How AI directors are revolutionizing content creation",
+    "duration": 30,
+    "style": "auto",
+    "script": "Did you know that How AI directors? In this video, I'll show you 3 practical strategies. Point 1: Here's what most people don't realize about How AI directors. Point 2: Here's what most people don't realize about How AI directors. Point 3: Here's what most people don't realize about How AI directors. Remember these key insights about How AI directors. Start applying them today and see the difference!",
+    "effects": [
+      "quick_cut",
+      "slide_left",
+      "zoom_in",
+      "quick_cut",
+      "slide_left",
+      "fade_black",
+      "slide_left",
+      "glitch_effect",
+      "zoom_in",
+      "glitch_effect"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 7,
+    "hook_strength": "high"
+  },
+  "aesthetic": {
+    "name": "neo-minimalist-926",
+    "color_palette": [
+      "hsl(105, 70%, 60%)",
+      "hsl(45, 70%, 60%)",
+      "hsl(29, 70%, 60%)"
+    ],
+    "motion_style": "organic",
+    "texture": "hybrid",
+    "innovation_level": 0.7060518124894206
+  }
+}

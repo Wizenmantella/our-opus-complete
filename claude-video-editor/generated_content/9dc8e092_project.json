@@ -1,0 +1,50 @@
+{
+  "project": {
+    "project_id": "9dc8e092",
+    "prompt": "The hidden physics of how glass breaks in slow motion",
+    "duration": 45,
+    "style": "auto",
+    "script": "Here are the 5 key things about The hidden physics that changed my perspective. Point 1: Here's what most people don't realize about The hidden physics. Point 2: Here's what most people don't realize about The hidden physics. Point 3: Here's what most people don't realize about The hidden physics. Point 4: Here's what most people don't realize about The hidden physics. Remember these key insights about The hidden physics. Start applying them today and see the difference!",
+    "effects": [
+      "quick_cut",
+      "slide_left",
+      "fade_black",
+      "quick_cut",
+      "zoom_in",
+      "zoom_in",
+      "quick_cut",
+      "quick_cut",
+      "fade_black",
+      "quick_cut",
+      "fade_black",
+      "slide_left",
+      "glitch_effect",
+      "slide_left",
+      "fade_black"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 11,
+    "hook_strength": "high"
+  },
+  "aesthetic": {
+    "name": "warm-brutalist-517",
+    "color_palette": [
+      "hsl(279, 70%, 60%)",
+      "hsl(68, 70%, 60%)",
+      "hsl(122, 70%, 60%)"
+    ],
+    "motion_style": "organic",
+    "texture": "smooth",
+    "innovation_level": 0.8589204610052446
+  }
+}

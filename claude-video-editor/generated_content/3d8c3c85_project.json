@@ -1,0 +1,45 @@
+{
+  "project": {
+    "project_id": "3d8c3c85",
+    "prompt": "5 morning habits that changed my life completely",
+    "duration": 30,
+    "style": "auto",
+    "script": "The moment I understood this key principle about 5 morning habits, my life shifted. Point 1: Here's what most people don't realize about 5 morning habits. Point 2: Here's what most people don't realize about 5 morning habits. Point 3: Here's what most people don't realize about 5 morning habits. Remember these key insights about 5 morning habits. Start applying them today and see the difference!",
+    "effects": [
+      "slide_left",
+      "quick_cut",
+      "quick_cut",
+      "glitch_effect",
+      "slide_left",
+      "zoom_in",
+      "quick_cut",
+      "zoom_in",
+      "quick_cut",
+      "zoom_in"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "inspirational",
+    "pacing": "slow_build",
+    "music_style": "emotional",
+    "effects": [
+      "smooth_transitions",
+      "light_effects"
+    ],
+    "color_grade": "cinematic",
+    "shot_count": 7,
+    "hook_strength": "high"
+  },
+  "aesthetic": {
+    "name": "digital-organic-140",
+    "color_palette": [
+      "hsl(79, 70%, 60%)",
+      "hsl(124, 70%, 60%)",
+      "hsl(81, 70%, 60%)"
+    ],
+    "motion_style": "geometric",
+    "texture": "textured",
+    "innovation_level": 0.8400977858947717
+  }
+}

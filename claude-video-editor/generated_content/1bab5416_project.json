@@ -1,0 +1,65 @@
+{
+  "project": {
+    "project_id": "1bab5416",
+    "prompt": "I spent 30 days creating content with AI and this happened",
+    "duration": 90,
+    "style": "auto",
+    "script": "Here are the 5 key things about I spent 30 that changed my perspective. Point 1: Here's what most people don't realize about I spent 30. Point 2: Here's what most people don't realize about I spent 30. Point 3: Here's what most people don't realize about I spent 30. Point 4: Here's what most people don't realize about I spent 30. Point 5: Here's what most people don't realize about I spent 30. Point 6: Here's what most people don't realize about I spent 30. Point 7: Here's what most people don't realize about I spent 30. Point 8: Here's what most people don't realize about I spent 30. Point 9: Here's what most people don't realize about I spent 30. Remember these key insights about I spent 30. Start applying them today and see the difference!",
+    "effects": [
+      "slide_left",
+      "slide_left",
+      "fade_black",
+      "glitch_effect",
+      "quick_cut",
+      "zoom_in",
+      "slide_left",
+      "slide_left",
+      "fade_black",
+      "fade_black",
+      "slide_left",
+      "slide_left",
+      "quick_cut",
+      "slide_left",
+      "quick_cut",
+      "quick_cut",
+      "glitch_effect",
+      "quick_cut",
+      "zoom_in",
+      "glitch_effect",
+      "quick_cut",
+      "slide_left",
+      "quick_cut",
+      "quick_cut",
+      "quick_cut",
+      "quick_cut",
+      "fade_black",
+      "slide_left",
+      "slide_left",
+      "slide_left"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 22,
+    "hook_strength": "medium"
+  },
+  "aesthetic": {
+    "name": "soft-cyberpunk-781",
+    "color_palette": [
+      "hsl(274, 70%, 60%)",
+      "hsl(266, 70%, 60%)",
+      "hsl(165, 70%, 60%)"
+    ],
+    "motion_style": "fluid",
+    "texture": "smooth",
+    "innovation_level": 0.7503890302940345
+  }
+}

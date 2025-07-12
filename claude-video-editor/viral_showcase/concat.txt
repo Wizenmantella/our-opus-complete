@@ -1,0 +1,7 @@
+file 'viral_showcase/intro.mp4'
+file 'viral_showcase/tiktok_title.mp4'
+file 'viral_showcase/tiktok_viral.mp4'
+file 'viral_showcase/instagram_title.mp4'
+file 'viral_showcase/instagram_reel.mp4'
+file 'viral_showcase/youtube_title.mp4'
+file 'viral_showcase/youtube_shorts.mp4'

@@ -1,0 +1,45 @@
+{
+  "project": {
+    "project_id": "448e8c00",
+    "prompt": "Water droplets dancing on glass surfaces in zero gravity",
+    "duration": 30,
+    "style": "auto",
+    "script": "Here are the 5 key things about Water droplets dancing that changed my perspective. Point 1: Here's what most people don't realize about Water droplets dancing. Point 2: Here's what most people don't realize about Water droplets dancing. Point 3: Here's what most people don't realize about Water droplets dancing. Remember these key insights about Water droplets dancing. Start applying them today and see the difference!",
+    "effects": [
+      "quick_cut",
+      "slide_left",
+      "zoom_in",
+      "slide_left",
+      "glitch_effect",
+      "fade_black",
+      "glitch_effect",
+      "glitch_effect",
+      "glitch_effect",
+      "zoom_in"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 7,
+    "hook_strength": "high"
+  },
+  "aesthetic": {
+    "name": "retro-futuristic-950",
+    "color_palette": [
+      "hsl(68, 70%, 60%)",
+      "hsl(15, 70%, 60%)",
+      "hsl(110, 70%, 60%)"
+    ],
+    "motion_style": "geometric",
+    "texture": "textured",
+    "innovation_level": 0.8363831998676137
+  }
+}

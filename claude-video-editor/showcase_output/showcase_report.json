@@ -1,0 +1,83 @@
+{
+  "showcase_summary": {
+    "total_processing_time": 40.7944598197937,
+    "features_demonstrated": [
+      "AI Video Analysis",
+      "Motion Detection",
+      "Scene Analysis",
+      "Professional Enhancement",
+      "Color Correction",
+      "Noise Reduction",
+      "Sharpening",
+      "Platform Optimization",
+      "Viral Video Creation",
+      "Effects Engine",
+      "Multi-format Export",
+      "Quality Assessment",
+      "Effect: Glitch",
+      "Effect: Flash",
+      "Effect: Shake",
+      "Effect: Color_Shift",
+      "Effect: Vintage"
+    ],
+    "outputs_created": 9,
+    "platforms_supported": [],
+    "effects_created": 5,
+    "viral_styles": 3
+  },
+  "video_analysis": {
+    "basic_info": {
+      "duration": 30.0,
+      "fps": 30.0,
+      "frame_count": 900,
+      "resolution": "1920x1080",
+      "file_size": 24729787
+    },
+    "motion_analysis": {
+      "average_motion": 2.6517004243827165,
+      "max_motion": 3.0102507716049383,
+      "high_motion_frames": 0
+    },
+    "scene_analysis": {
+      "total_scenes": 1,
+      "scene_changes": [],
+      "average_scene_length": 30.0
+    },
+    "quality_metrics": {
+      "motion_score": 2.6517004243827165,
+      "scene_variety": 0,
+      "overall_quality": 0.026517004243827164
+    }
+  },
+  "file_outputs": {
+    "effects_videos": [
+      "showcase_output/effect_glitch.mp4",
+      "showcase_output/effect_flash.mp4",
+      "showcase_output/effect_shake.mp4",
+      "showcase_output/effect_color_shift.mp4",
+      "showcase_output/effect_vintage.mp4"
+    ],
+    "platform_videos": {},
+    "enhanced_video": "showcase_output/professional_enhanced.mp4",
+    "viral_videos": [
+      "showcase_output/viral_tiktok.mp4",
+      "showcase_output/viral_motivation.mp4",
+      "showcase_output/viral_tutorial.mp4"
+    ]
+  },
+  "system_capabilities": {
+    "ai_analysis": true,
+    "professional_enhancement": true,
+    "platform_optimization": true,
+    "viral_content_creation": true,
+    "effects_engine": true,
+    "multi_format_export": true,
+    "quality_assessment": true,
+    "batch_processing": true
+  },
+  "quality_metrics": {
+    "motion_score": 2.6517004243827165,
+    "scene_variety": 1,
+    "processing_efficiency": 0.12256566264358211
+  }
+}

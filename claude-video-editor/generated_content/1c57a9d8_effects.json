@@ -1,0 +1,32 @@
+{
+  "effects_chain": [
+    "quick_cut",
+    "slide_left",
+    "zoom_in",
+    "quick_cut",
+    "slide_left",
+    "fade_black",
+    "slide_left",
+    "glitch_effect",
+    "zoom_in",
+    "glitch_effect"
+  ],
+  "timing": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27
+  ],
+  "aesthetic_style": "neo-minimalist-926",
+  "color_palette": [
+    "hsl(105, 70%, 60%)",
+    "hsl(45, 70%, 60%)",
+    "hsl(29, 70%, 60%)"
+  ]
+}

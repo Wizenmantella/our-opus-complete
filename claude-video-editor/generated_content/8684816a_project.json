@@ -1,0 +1,55 @@
+{
+  "project": {
+    "project_id": "8684816a",
+    "prompt": "My crazy experiment with sleeping 4 hours for 30 days",
+    "duration": 60,
+    "style": "auto",
+    "script": "Nobody warned me that My crazy experiment would completely change my routine! Point 1: Here's what most people don't realize about My crazy experiment. Point 2: Here's what most people don't realize about My crazy experiment. Point 3: Here's what most people don't realize about My crazy experiment. Point 4: Here's what most people don't realize about My crazy experiment. Point 5: Here's what most people don't realize about My crazy experiment. Point 6: Here's what most people don't realize about My crazy experiment. Remember these key insights about My crazy experiment. Start applying them today and see the difference!",
+    "effects": [
+      "glitch_effect",
+      "quick_cut",
+      "zoom_in",
+      "zoom_in",
+      "quick_cut",
+      "glitch_effect",
+      "quick_cut",
+      "fade_black",
+      "fade_black",
+      "glitch_effect",
+      "fade_black",
+      "glitch_effect",
+      "zoom_in",
+      "slide_left",
+      "fade_black",
+      "slide_left",
+      "fade_black",
+      "zoom_in",
+      "slide_left",
+      "fade_black"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "entertainment",
+    "pacing": "fast",
+    "music_style": "energetic",
+    "effects": [
+      "quick_cuts",
+      "zoom_effects"
+    ],
+    "color_grade": "vibrant",
+    "shot_count": 15,
+    "hook_strength": "medium"
+  },
+  "aesthetic": {
+    "name": "soft-cyberpunk-102",
+    "color_palette": [
+      "hsl(118, 70%, 60%)",
+      "hsl(250, 70%, 60%)",
+      "hsl(359, 70%, 60%)"
+    ],
+    "motion_style": "fluid",
+    "texture": "smooth",
+    "innovation_level": 0.8594535136130632
+  }
+}

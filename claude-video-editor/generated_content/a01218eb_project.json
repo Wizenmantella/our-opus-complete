@@ -1,0 +1,55 @@
+{
+  "project": {
+    "project_id": "a01218eb",
+    "prompt": "Why TikTok's algorithm is secretly training your brain",
+    "duration": 60,
+    "style": "auto",
+    "script": "Everyone thinks that it's complicated about Why TikTok's algorithm, but here's the truth. Point 1: Here's what most people don't realize about Why TikTok's algorithm. Point 2: Here's what most people don't realize about Why TikTok's algorithm. Point 3: Here's what most people don't realize about Why TikTok's algorithm. Point 4: Here's what most people don't realize about Why TikTok's algorithm. Point 5: Here's what most people don't realize about Why TikTok's algorithm. Point 6: Here's what most people don't realize about Why TikTok's algorithm. Remember these key insights about Why TikTok's algorithm. Start applying them today and see the difference!",
+    "effects": [
+      "slide_left",
+      "glitch_effect",
+      "quick_cut",
+      "zoom_in",
+      "slide_left",
+      "fade_black",
+      "glitch_effect",
+      "glitch_effect",
+      "fade_black",
+      "glitch_effect",
+      "zoom_in",
+      "fade_black",
+      "glitch_effect",
+      "glitch_effect",
+      "glitch_effect",
+      "quick_cut",
+      "fade_black",
+      "slide_left",
+      "glitch_effect",
+      "slide_left"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 15,
+    "hook_strength": "medium"
+  },
+  "aesthetic": {
+    "name": "retro-futuristic-351",
+    "color_palette": [
+      "hsl(103, 70%, 60%)",
+      "hsl(186, 70%, 60%)",
+      "hsl(168, 70%, 60%)"
+    ],
+    "motion_style": "organic",
+    "texture": "smooth",
+    "innovation_level": 0.7973720903243608
+  }
+}

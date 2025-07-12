@@ -1,11 +1,26 @@
+# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.egg-info
-.pytest_cache
-.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
 
-thumbs.db
+# Media Files & Outputs
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.jpg
+*.png
+/output/
+/temp_media/
+/stock_footage/
+/cache/
+
+# IDE / OS specific
+.idea/
+.vscode/
 .DS_Store
-.idea
-

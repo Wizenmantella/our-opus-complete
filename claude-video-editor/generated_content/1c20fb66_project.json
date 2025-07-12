@@ -1,0 +1,50 @@
+{
+  "project": {
+    "project_id": "1c20fb66",
+    "prompt": "Creating Hollywood-quality videos with artificial intelligence",
+    "duration": 45,
+    "style": "auto",
+    "script": "Here are the 5 key things about Creating Hollywood-quality videos that changed my perspective. Point 1: Here's what most people don't realize about Creating Hollywood-quality videos. Point 2: Here's what most people don't realize about Creating Hollywood-quality videos. Point 3: Here's what most people don't realize about Creating Hollywood-quality videos. Point 4: Here's what most people don't realize about Creating Hollywood-quality videos. Remember these key insights about Creating Hollywood-quality videos. Start applying them today and see the difference!",
+    "effects": [
+      "zoom_in",
+      "slide_left",
+      "fade_black",
+      "slide_left",
+      "quick_cut",
+      "fade_black",
+      "quick_cut",
+      "slide_left",
+      "fade_black",
+      "fade_black",
+      "slide_left",
+      "quick_cut",
+      "glitch_effect",
+      "quick_cut",
+      "quick_cut"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 11,
+    "hook_strength": "high"
+  },
+  "aesthetic": {
+    "name": "soft-cyberpunk-525",
+    "color_palette": [
+      "hsl(319, 70%, 60%)",
+      "hsl(274, 70%, 60%)",
+      "hsl(160, 70%, 60%)"
+    ],
+    "motion_style": "geometric",
+    "texture": "smooth",
+    "innovation_level": 0.8372216603990613
+  }
+}

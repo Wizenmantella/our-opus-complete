@@ -1,0 +1,60 @@
+{
+  "project": {
+    "project_id": "227240b7",
+    "prompt": "Building autonomous content universes that evolve",
+    "duration": 75,
+    "style": "auto",
+    "script": "Everyone thinks that it's complicated about Building autonomous content, but here's the truth. Point 1: Here's what most people don't realize about Building autonomous content. Point 2: Here's what most people don't realize about Building autonomous content. Point 3: Here's what most people don't realize about Building autonomous content. Point 4: Here's what most people don't realize about Building autonomous content. Point 5: Here's what most people don't realize about Building autonomous content. Point 6: Here's what most people don't realize about Building autonomous content. Point 7: Here's what most people don't realize about Building autonomous content. Remember these key insights about Building autonomous content. Start applying them today and see the difference!",
+    "effects": [
+      "zoom_in",
+      "quick_cut",
+      "quick_cut",
+      "fade_black",
+      "slide_left",
+      "zoom_in",
+      "fade_black",
+      "quick_cut",
+      "glitch_effect",
+      "zoom_in",
+      "slide_left",
+      "zoom_in",
+      "zoom_in",
+      "glitch_effect",
+      "zoom_in",
+      "glitch_effect",
+      "quick_cut",
+      "zoom_in",
+      "glitch_effect",
+      "fade_black",
+      "fade_black",
+      "fade_black",
+      "glitch_effect",
+      "slide_left",
+      "quick_cut"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 18,
+    "hook_strength": "medium"
+  },
+  "aesthetic": {
+    "name": "retro-futuristic-359",
+    "color_palette": [
+      "hsl(82, 70%, 60%)",
+      "hsl(148, 70%, 60%)",
+      "hsl(264, 70%, 60%)"
+    ],
+    "motion_style": "geometric",
+    "texture": "hybrid",
+    "innovation_level": 0.7771020917271347
+  }
+}

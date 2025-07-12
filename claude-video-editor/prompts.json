@@ -1,0 +1,34 @@
+{
+  "prompts": [
+    {
+      "prompt": "5 morning habits that will change your life",
+      "type": "motivation",
+      "duration": 30,
+      "platforms": ["tiktok", "instagram_reel"]
+    },
+    {
+      "prompt": "How to save 50% on your grocery bill",
+      "type": "tutorial",
+      "duration": 45,
+      "platforms": ["youtube_shorts", "tiktok"]
+    },
+    {
+      "prompt": "The science behind why we dream",
+      "type": "educational",
+      "duration": 60,
+      "platforms": ["youtube", "instagram_reel"]
+    },
+    {
+      "prompt": "3 exercises for perfect posture",
+      "type": "tutorial",
+      "duration": 30,
+      "platforms": ["tiktok", "youtube_shorts"]
+    },
+    {
+      "prompt": "Why failure is the key to success",
+      "type": "motivation",
+      "duration": 30,
+      "platforms": ["instagram_reel", "linkedin"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "effects_chain": [
+    "fade_black",
+    "slide_left",
+    "zoom_in",
+    "fade_black",
+    "quick_cut"
+  ],
+  "timing": [
+    0,
+    3,
+    6,
+    9,
+    12
+  ],
+  "aesthetic_style": "warm-brutalist-442",
+  "color_palette": [
+    "hsl(128, 70%, 60%)",
+    "hsl(290, 70%, 60%)",
+    "hsl(113, 70%, 60%)"
+  ]
+}

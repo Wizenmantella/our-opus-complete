@@ -1,0 +1,50 @@
+{
+  "project": {
+    "project_id": "e45ba2d5",
+    "prompt": "The psychology behind why people procrastinate",
+    "duration": 45,
+    "style": "auto",
+    "script": "Everyone thinks that it's complicated about The psychology behind, but here's the truth. Point 1: Here's what most people don't realize about The psychology behind. Point 2: Here's what most people don't realize about The psychology behind. Point 3: Here's what most people don't realize about The psychology behind. Point 4: Here's what most people don't realize about The psychology behind. Remember these key insights about The psychology behind. Start applying them today and see the difference!",
+    "effects": [
+      "quick_cut",
+      "quick_cut",
+      "glitch_effect",
+      "fade_black",
+      "zoom_in",
+      "slide_left",
+      "slide_left",
+      "zoom_in",
+      "fade_black",
+      "quick_cut",
+      "fade_black",
+      "quick_cut",
+      "glitch_effect",
+      "quick_cut",
+      "zoom_in"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 11,
+    "hook_strength": "high"
+  },
+  "aesthetic": {
+    "name": "neo-minimalist-355",
+    "color_palette": [
+      "hsl(126, 70%, 60%)",
+      "hsl(333, 70%, 60%)",
+      "hsl(46, 70%, 60%)"
+    ],
+    "motion_style": "geometric",
+    "texture": "hybrid",
+    "innovation_level": 0.8640220928723438
+  }
+}

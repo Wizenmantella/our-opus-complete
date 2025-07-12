@@ -1,0 +1,40 @@
+{
+  "project": {
+    "project_id": "6f129a80",
+    "prompt": "WAIT! This viral editing technique will blow your mind",
+    "duration": 15,
+    "style": "auto",
+    "script": "Everyone thinks that it's complicated about WAIT! This viral, but here's the truth. Point 1: Here's what most people don't realize about WAIT! This viral. Remember these key insights about WAIT! This viral. Start applying them today and see the difference!",
+    "effects": [
+      "fade_black",
+      "slide_left",
+      "zoom_in",
+      "fade_black",
+      "quick_cut"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 3,
+    "hook_strength": "high"
+  },
+  "aesthetic": {
+    "name": "warm-brutalist-442",
+    "color_palette": [
+      "hsl(128, 70%, 60%)",
+      "hsl(290, 70%, 60%)",
+      "hsl(113, 70%, 60%)"
+    ],
+    "motion_style": "fluid",
+    "texture": "hybrid",
+    "innovation_level": 0.9161108797963534
+  }
+}

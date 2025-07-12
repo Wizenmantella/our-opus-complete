@@ -1,0 +1,7 @@
+file 'showcase_output/intro.mp4'
+file 'showcase_output/effect_glitch.mp4'
+file 'showcase_output/effect_flash.mp4'
+file 'showcase_output/effect_shake.mp4'
+file 'showcase_output/professional_enhanced.mp4'
+file 'showcase_output/viral_tiktok.mp4'
+file 'showcase_output/viral_motivation.mp4'

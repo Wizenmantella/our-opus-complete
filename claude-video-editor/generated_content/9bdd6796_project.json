@@ -1,0 +1,55 @@
+{
+  "project": {
+    "project_id": "9bdd6796",
+    "prompt": "The birth of a new aesthetic movement in digital art",
+    "duration": 60,
+    "style": "auto",
+    "script": "Did you know that The birth of? In this video, I'll show you 3 practical strategies. Point 1: Here's what most people don't realize about The birth of. Point 2: Here's what most people don't realize about The birth of. Point 3: Here's what most people don't realize about The birth of. Point 4: Here's what most people don't realize about The birth of. Point 5: Here's what most people don't realize about The birth of. Point 6: Here's what most people don't realize about The birth of. Remember these key insights about The birth of. Start applying them today and see the difference!",
+    "effects": [
+      "glitch_effect",
+      "fade_black",
+      "slide_left",
+      "fade_black",
+      "slide_left",
+      "glitch_effect",
+      "glitch_effect",
+      "fade_black",
+      "quick_cut",
+      "zoom_in",
+      "glitch_effect",
+      "quick_cut",
+      "slide_left",
+      "quick_cut",
+      "quick_cut",
+      "fade_black",
+      "slide_left",
+      "zoom_in",
+      "quick_cut",
+      "zoom_in"
+    ],
+    "status": "created"
+  },
+  "decisions": {
+    "content_type": "educational",
+    "pacing": "medium",
+    "music_style": "uplifting",
+    "effects": [
+      "clean_cuts",
+      "text_overlays"
+    ],
+    "color_grade": "warm",
+    "shot_count": 15,
+    "hook_strength": "medium"
+  },
+  "aesthetic": {
+    "name": "soft-cyberpunk-187",
+    "color_palette": [
+      "hsl(103, 70%, 60%)",
+      "hsl(265, 70%, 60%)",
+      "hsl(6, 70%, 60%)"
+    ],
+    "motion_style": "geometric",
+    "texture": "textured",
+    "innovation_level": 0.8509148635108434
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "effects_chain": [
+    "quick_cut",
+    "slide_left",
+    "zoom_in",
+    "slide_left",
+    "glitch_effect",
+    "fade_black",
+    "glitch_effect",
+    "glitch_effect",
+    "glitch_effect",
+    "zoom_in"
+  ],
+  "timing": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27
+  ],
+  "aesthetic_style": "retro-futuristic-950",
+  "color_palette": [
+    "hsl(68, 70%, 60%)",
+    "hsl(15, 70%, 60%)",
+    "hsl(110, 70%, 60%)"
+  ]
+}

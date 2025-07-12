@@ -1,0 +1,29 @@
+# =================================================================
+# Requirements for the Whisper ASR Model
+#
+# Pinned versions for a stable and reproducible environment.
+# These versions are based on recent compatibility data from the
+# official Whisper repository (mid-2024).
+#
+# To install, run:
+# pip install -r requirements.txt
+# =================================================================
+
+# == Core ML & Numeric Computation ==
+# PyTorch is the primary deep learning framework.
+torch==2.3.0
+numpy==1.26.4          # Required by torch, numba, and others.
+numba==0.59.1          # JIT compiler for numerical Python functions.
+
+# == Core Whisper Dependencies ==
+tiktoken==0.7.0        # Fast BPE tokenizer used by OpenAI models.
+
+# == Utilities ==
+tqdm==4.66.4           # For clean and informative progress bars.
+more-itertools==10.2.0 # Extends Python's standard itertools.
+
+# == GPU Acceleration (Optional) ==
+# Triton is a language and compiler for custom GPU kernels.
+# The environment marker ensures it's only installed on Linux x86_64 systems,
+# which is its primary target platform.
+triton==2.3.0; sys_platform == "linux" and platform_machine == "x86_64"
