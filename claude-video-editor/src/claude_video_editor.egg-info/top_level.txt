@@ -1,0 +1,5 @@
+core
+utils
+video_ai_editor
+video_director_ai
+whisper

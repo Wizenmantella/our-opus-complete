@@ -1,0 +1,5 @@
+[console_scripts]
+claude-edit = claude_video_editor.quick_start:main
+claude-video-editor = claude_video_editor.cli:main
+claude-watch = claude_video_editor.watch:main
+
