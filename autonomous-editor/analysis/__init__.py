@@ -1,0 +1,1 @@
+# analysis package - The sensory organs of the autonomous editor

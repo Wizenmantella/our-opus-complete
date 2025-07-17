@@ -1,0 +1,1 @@
+# assets package - The creative arsenal of the autonomous editor

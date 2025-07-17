@@ -1,0 +1,40 @@
+# =================================================================
+# Requirements for the Autonomous Editor Opus (Optimized for Apple Silicon)
+#
+# To install, first create a virtual environment, then run:
+# pip install -r requirements.txt
+# =================================================================
+
+# == Core ML & Numeric Computation ==
+# PyTorch for Apple Silicon uses the 'mps' backend for GPU acceleration.
+torch
+numpy
+
+# == Core Whisper Dependencies ==
+# The official package from PyPI. It will use the torch MPS backend.
+openai-whisper
+tiktoken
+
+# == Utilities ==
+tqdm
+more-itertools
+
+# == Video Processing ==
+moviepy
+opencv-python
+
+# == Audio Analysis ==
+librosa
+soundfile
+
+# == Scene Detection ==
+scenedetect
+
+# == Scientific Computing ==
+scipy
+
+# == Image Processing & I/O ==
+Pillow
+imageio
+imageio-ffmpeg
+ffmpeg-python
