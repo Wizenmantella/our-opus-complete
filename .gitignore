@@ -8,6 +8,11 @@ env/
 venv/
 *.egg-info/
 
+# Large binary files
+*.dylib
+*.so
+*.dll
+
 # Media Files & Outputs
 *.mp4
 *.mov
